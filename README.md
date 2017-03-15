@@ -4,6 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 This project uses sass instead of css.
 To use sass instead of css as default, use
+
 ```ng new <projectName> --styles=scss```
 
 ## Development server
