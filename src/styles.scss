@@ -1,1 +1,10 @@
 /* You can add global styles to this file, and also import other style files */
+
+@import url('https://fonts.googleapis.com/css?family=Comfortaa');
+$font-stack: Comfortaa,
+cursive;
+$body-color: #EEE;
+body {
+    font: 100% $font-stack;
+    background: $body-color;
+}
